@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mr.Fox</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Pwd">Contraseña</string>
+    <string name="Log">Log In</string>
+    <string name="Update">UPDATE</string>
+    <string name="uninstall">UNINSTALL</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="texto">Tu risa me hace libre,\me pone alas.
+        \Soledades me quita,\cárcel me arranca.
+        \Boca que vuela,\corazón que en tus labios\relampaguea.\Al octavo mes ríes\con cinco azahares.\Con cinco diminutas\ferocidades.\Con cinco dientes\como cinco jazmines\adolescentes.</string>
+</resources>
